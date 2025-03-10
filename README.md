@@ -53,17 +53,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vtuzfNS.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Follow the selections shown in the screenshot above. Use the "create new" button for the resource group and name it whatever you would like. Create a user name and password for the Virtual Machine and then click on "Review + Create". You can then click create on the final page.
 </p>
+<img src="https://i.imgur.com/8qwf4dU.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/DqCFsyB.png" height="80%" width="80%"/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After about a minute the Virtual machine will be created. Then go to your virtual machines and find the public IP address shows in the screenshot below and copy it. Open Remote Desktop Connection from your windows start menu and enter that public IP into the computer blank in the RDP window. Add the username you created for the Virtual machine. Hit connect and enter the password you created and you are in!  
+<img src="https://i.imgur.com/53z2trQ.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/mWvvGsS.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+CONGRATULATIONS
 </p>
 <br />
