@@ -54,6 +54,7 @@ Follow the selections shown in the screenshot above. Use the "create new" button
 
 <p>
 After about a minute the Virtual machine will be created. Then go to your virtual machines and find the public IP address shows in the screenshot below and copy it. Open Remote Desktop Connection from your windows start menu and enter that public IP into the computer blank in the RDP window. Add the username you created for the Virtual machine. Hit connect and enter the password you created and you are in!  
+
 <img src="https://i.imgur.com/53z2trQ.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/mWvvGsS.png" height="80%" width="80%"/>
 </p>
